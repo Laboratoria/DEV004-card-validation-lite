@@ -200,7 +200,7 @@ Antes de comenzar instala lo siguiente:
 3. Un editor de código, te sugerimos [Code](https://code.visualstudio.com/)
 
 Después en [GitHub](https://github.com/):
-1. Crear una cuenta. Conoce más de GitHub este [link](https://curriculum.laboratoria.la/es/topics/scm/02-github/01-github)
+1. Crear una cuenta. Conoce más de GitHub en este [link](https://curriculum.laboratoria.la/es/topics/scm/02-github/01-github)
 2. Realiza un fork de este proyecto
 3. Configura tu SSH Key  en GitHub. Puedes revisar este [video](https://www.youtube.com/watch?v=g0ZV-neSM7E) o 
 [artículo](https://docs.github.com/es/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
