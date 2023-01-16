@@ -202,10 +202,10 @@ Antes de comenzar instala lo siguiente:
 Después en [GitHub](https://github.com/):
 1. Crear una cuenta. Conoce más de GitHub este [link](https://curriculum.laboratoria.la/es/topics/scm/02-github/01-github)
 2. Realiza un fork de este proyecto
-3. Configura tu SSH Key, [video](https://www.youtube.com/watch?v=g0ZV-neSM7E) o 
-[artículo](https://docs.github.com/es/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent), en GitHub
+3. Configura tu SSH Key  en GitHub. Puedes revisar este [video](https://www.youtube.com/watch?v=g0ZV-neSM7E) o 
+[artículo](https://docs.github.com/es/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
-Luego en una [shell](https://curriculum.laboratoria.la/es/topics/shell) ejecuta lo siguiente:
+Luego en una [shell](https://curriculum.laboratoria.la/es/topics/shell) ejecuta lo siguiente. Si estas en Windows puedes usar Git Bash:
 1. Clona el fork en tu PC
 2. Ubica la shell en el proyecto que clonaste
 3. Instala las dependencias del proyecto con 📦 `npm install`
