@@ -7,7 +7,7 @@
 * [3. Consideraciones generales](#3-consideraciones-generales)
 * [4. Criterios de aceptación mínimos del proyecto](#4-criterios-de-aceptación-mínimos-del-proyecto)
 * [5. Consideraciones técnicas](#5-consideraciones-técnicas)
-* [6. Pistas, tips y lecturas complementarias](#8-pistas-tips-y-lecturas-complementarias)
+* [6. Pistas, tips y lecturas complementarias](#6-pistas-tips-y-lecturas-complementarias)
 
 ***
 
